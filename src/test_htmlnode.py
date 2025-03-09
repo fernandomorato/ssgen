@@ -135,6 +135,5 @@ class TestHTMLNode(unittest.TestCase):
             "<p><b>Bold</b><i>Italic</i><sub>Subscript</sub>Normal</p>",
         )
 
-
 if __name__ == "__main__":
     unittest.main()
